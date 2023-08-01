@@ -1,0 +1,38 @@
+.main {
+    padding-top: 190px;
+    padding-bottom: 231px;
+}
+
+.main .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-content {
+    max-width: 588px;
+}
+
+.main-description {
+    margin-top: 40px;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 60px;
+    max-width: 486px;
+}
+
+.footer {
+    text-align: center;
+    padding: 40px 0;
+    font-size: 13px;
+    line-height: 16px;
+    color: #DCDCF3;
+}
+
+
+
+
+
+
+
+
